@@ -112,13 +112,3 @@ LIMIT 5;
 - `ORDER BY` can reference `SELECT` aliases because it runs *after* `SELECT`.
 
 ---
-
-## 📁 Suggested File Structure
-
-```
-/data-analyst-roadmap/
-└── /week1_sql
-    └── day5_logical_processing_order.md   <-- Save this file here
-```
-
----
