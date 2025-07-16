@@ -58,8 +58,3 @@ WHERE first_name LIKE 'A%';
 - `BETWEEN` selects values within a range (inclusive)
 - `LIKE` helps with pattern matching using wildcards (`%` for any number of characters, `_` for one character)
 
-🚀 Next Steps
-
-- Learn how to sort and limit query results using ORDER BY and LIMIT
-- Understand how to remove duplicates using DISTINCT
-- Keep practicing real-world filtering scenarios
